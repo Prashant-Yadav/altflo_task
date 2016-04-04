@@ -1,0 +1,13 @@
+
+#closeButton {
+	visibility: hidden;
+}
+
+#resultBox {
+	visibility: hidden;
+}
+
+.navbar-default {
+	color: white;
+	background-color: #6699ff;
+}
